@@ -18,6 +18,9 @@ A sophisticated AI-powered plant disease diagnosis tool that combines the beauty
 - Python 3.8+
 - Node.js & npm
 
+## Dataset Link:
+https://huggingface.co/datasets/SyedNazmusSakib/PlantVillageVQA/tree/main
+
 ### 1. Backend Setup
 ```bash
 # Install dependencies
@@ -39,3 +42,7 @@ This project requires a trained model checkpoint (`model_epoch_38.pth`) and voca
 - Place these files in the root directory.
 - `vocab.json` is included in this repository.
 - `model_epoch_38.pth` must be downloaded from Hugging Face (see Deployment Guide).
+
+## Documentation
+Project Report Link:
+https://docs.google.com/document/d/1Jp80weatOduY3777KApPxTIdLWVzfcfs/edit?usp=sharing&ouid=100475621309255079379&rtpof=true&sd=true

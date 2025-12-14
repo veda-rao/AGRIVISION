@@ -45,4 +45,4 @@ This project requires a trained model checkpoint (`model_epoch_38.pth`) and voca
 
 ## Documentation
 Project Report Link:
-https://docs.google.com/document/d/1Jp80weatOduY3777KApPxTIdLWVzfcfs/edit?usp=sharing&ouid=100475621309255079379&rtpof=true&sd=true
+https://drive.google.com/file/d/1SLrZgWSCadmc3iY06wYlB3Blz1GDy4qI/view?usp=sharing
